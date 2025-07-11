@@ -17,7 +17,7 @@ docker run -p 8501:8501 cyp2c19-app
 
 ### Quickstart with Python
 
-```python
+```bash
 git clone https://github.com/highonhues/CYPtool.git
 cd CYPtool
 python -m venv .venv && source .venv/bin/activate   # optional
